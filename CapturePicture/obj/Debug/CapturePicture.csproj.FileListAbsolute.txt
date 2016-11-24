@@ -1,0 +1,10 @@
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\CapturePicture.exe.config
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\CapturePicture.exe
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\CapturePicture.pdb
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\obj\Debug\CapturePicture.Properties.Resources.resources
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\obj\Debug\CapturePicture.csproj.GenerateResource.Cache
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\obj\Debug\CapturePicture.exe
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\obj\Debug\CapturePicture.pdb
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\Emgu.CV.dll
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\Emgu.CV.UI.dll
+c:\users\haithamlaptop\documents\visual studio 2015\Projects\CapturePicture\CapturePicture\bin\Debug\Emgu.Util.dll
